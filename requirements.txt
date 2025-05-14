@@ -1,0 +1,13 @@
+pnpl
+torch
+torchvision
+torchmetrics
+torchaudio
+lightning
+wandb
+numpy
+scikit-learn
+mne
+matplotlib
+h5py
+mne-bids

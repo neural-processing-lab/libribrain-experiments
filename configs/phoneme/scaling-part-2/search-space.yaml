@@ -1,0 +1,2 @@
+'("data", "general", "train_fraction")' : [0.6,0.8,1.0]
+'("general", "seed")' : [0,1,2]
